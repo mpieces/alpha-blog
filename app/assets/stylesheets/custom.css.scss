@@ -1,2 +1,4 @@
-@import "bootstrap-sprockets";
+$navbar-default-bg: #08088A;
+
+// Custom bootstrap variables must be set or imported *before* bootstrap.
 @import "bootstrap";
